@@ -1,2 +1,2 @@
 # learn-markdown
-markdown(GFM)
+markdown(Typora)
