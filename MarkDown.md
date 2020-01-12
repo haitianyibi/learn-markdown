@@ -150,3 +150,13 @@ main(){
 
 }
 ```
+
+#### 7.XML实体引用
+
+markdown自动识别实体引用并转换，在实体引用签名加上反斜杠\可以直接显示**实体引用**
+
+* \&lt;  =  <  =less than
+* \&gt; = >  =greater than
+* \&amp; = & =ampersand
+* \&apos; =' =apostrophe
+* \&quot="=quotation mark
